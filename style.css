@@ -1,0 +1,103 @@
+
+h1 {
+  color: royalblue
+}
+
+.ma-classe {
+  color: black;
+}
+
+.ma-classe-2 {
+  color: deeppink;
+}
+
+.lien-a-propos {
+  color:black;
+}
+
+.lien-page-acceuil {
+  color:black;
+}
+
+.professionalisme-passion {
+  color: #A5B4FC;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 3.5em;
+  color: #A5B4FC
+}
+p {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.2em;
+}
+li {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1em;
+}
+a {
+  text-decoration:none; 
+  font-family: 'Manrope', sans-serif;
+  font-size: 1em;
+}
+div {
+  background-color: white;
+}
+body {
+  background-color: #3d3f85;
+}
+a {
+  color: #242424;
+}
+p   {
+  background-color: #F9F8FF;
+}
+ p { 
+  font-weight: 800;
+ }
+
+ .cta {
+  background-color: #A5B4FC ;
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.2em;
+  font-weight: 800;
+  border-radius: 50px;
+  
+ }
+ .depuis{
+  color: #A5B4FC
+ }
+
+ .reportages{
+  color: #A5B4FC
+ }
+ .qualité {
+  color: #A5B4FC 
+ }
+
+ .liste-competences {
+  border-right : 1px solid #8e86b5 ;
+  border-bottom: 1px solid #8e86b5 ;
+  background-color: #3d3f85;
+  color : white;
+ }
+ h2 {
+  color : white 
+ }
+
+ .cta:hover {
+  text-decoration: none;
+  background: linear-gradient(#696484,#8788BA);
+ }
+
+ a:hover {
+  text-decoration: underline;
+ }
+
+ img:hover {
+  opacity: 0.5;
+ }
+
+ 
+ 
